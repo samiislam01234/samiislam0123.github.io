@@ -1,0 +1,60 @@
+ body{
+    font-family: 'Open Sans', sans-serif;
+ }
+
+ .banner-container{
+    background-color: #CACACA;
+    border: 3px solid rgba(29, 79, 97, 0.208);
+    border-radius: 5px;
+ }
+
+ .banner-column{
+    background-color: #8D8D8D;
+ }
+
+ .MyOwnProfilePhoto{
+    border: 3px solid ;
+    
+
+ }
+
+.navbar-container{
+   background-color: #262B37;
+}
+
+.about-container{
+   background-color:#00BDBD ;
+
+}
+
+.col-md-9{
+   text-align: center;
+}
+
+.img-fluid{
+   padding: 5px;
+   background-color:black;
+}
+
+.education-container{
+   background-color: #EEEEEE;
+
+   
+}
+
+.bg-redtype{
+   background-color: #DC3545;
+}
+
+.redtype-colour{
+   color:#DC3545 ;
+   
+}
+
+.circle{
+   background-color: #DC3545;
+   width: 150px;
+   height: 150px;
+   border-radius: 50%;
+   text-align: center;
+}
