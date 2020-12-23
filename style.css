@@ -66,3 +66,11 @@
 #project{
    height: 100%;
 }
+
+#project-section-header{
+   background-color: rgba(43, 43, 167, 0.071) !important;
+}
+
+#html{
+   margin-left: 50px;
+}
